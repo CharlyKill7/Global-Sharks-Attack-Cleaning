@@ -1,4 +1,4 @@
-![nombre_de_tu_imagen](images/sharks.jfif)
+![sharks](images/sharks.jfif)
 
 # Project | Global Sharks Attack Cleaning 
 
