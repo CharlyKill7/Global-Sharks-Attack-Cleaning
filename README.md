@@ -17,7 +17,7 @@ Este proyecto se centra en la limpieza de un dataframe de ataques de tiburones p
 - No se pueden eliminar columnas.
 - Deben quedar al menos 1500 filas.
 
-## Deliverables
+## Archivos
 
 - `main.ipynb`, que contienge el código a ejecutar.
 - `draft.ipynb`, con contiene pruebas y trozos de código en sucio.
