@@ -1,5 +1,3 @@
-![sharks](images/sharks.jfif)
-
 # Project | Global Sharks Attack Cleaning 
 
 
