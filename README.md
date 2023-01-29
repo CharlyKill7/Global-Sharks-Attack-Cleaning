@@ -31,5 +31,4 @@ Este proyecto se centra en la limpieza de un dataframe de ataques de tiburones p
 
 [Data Preparation](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
 
-[Google Search](https://www.google.es/search?q=how+to+clean+data+with+python)
 
